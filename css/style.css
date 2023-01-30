@@ -1,0 +1,96 @@
+body{
+    background: #FFE0B2;
+}
+
+.logo img{
+    width: 100%;
+    max-width: 135px;
+    height: 20vh;text-align: center;
+}
+
+.name img{
+    width: 23%;
+    height: 12vh;
+}
+
+
+nav ul li{
+    list-style: none;
+    display: inline;
+    margin: 20px;
+
+}
+
+
+nav ul{
+    text-align: center;
+}
+
+
+.card{
+    background-color: #FFE0B2;
+    width: 360px;
+    height: 200px;
+    margin: 0px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #212121;
+}
+
+.card p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif
+}
+
+
+
+
+.btn p{
+    text-align: center;
+    width: 200px;
+    margin: 10px auto;
+    border-radius: 6px;
+    padding: 10px 10px 12px 10px;
+    margin-top: 20px;
+    background-color: #FFC107
+}
+    
+
+
+.btn{
+    color: white;
+    text-decoration: none;
+    padding: 30px;
+}
+
+.btn p a{
+    text-decoration: none;
+    font-family: 'Kaushan Script', cursive;
+    font-weight: 800;
+    color: #333;
+    font-size: 30px;
+}
+
+
+.btn p:hover{
+    padding: 20px;
+    background: #F57C00;
+}
+
+footer h2{
+    font-size: 15px;
+    color: #757575;
+    text-align: center;
+}
+
+
+.card img{
+    width: 45px;
+    display: flex;
+    margin: 0px auto;
+
+}
+
+
+
